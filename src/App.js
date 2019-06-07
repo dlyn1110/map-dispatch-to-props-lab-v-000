@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import RestaurantInput from './components/RestaurantInput';
 import Restaurants from './components/Restaurants';
 
